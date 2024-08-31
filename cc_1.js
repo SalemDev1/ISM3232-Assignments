@@ -6,3 +6,6 @@ console.log(employeeName);
 
 console.log(employeeID);
 console.log(typeof(employeeID));
+
+console.log(isActive);  
+console.log(typeof isActive);
