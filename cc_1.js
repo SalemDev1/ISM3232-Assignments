@@ -14,3 +14,21 @@ let products = ["Wolverine Claws", "Deadpools Katana", "Ironmans Suit"];
 const productDetails = { name: "Wolverine Claws", price: 1000, inStock:true};
 console.log(products);
 console.log(productDetails);
+
+let accountBalance = 6000;
+console.log(accountBalance);
+
+accountBalance += 500;
+console.log(accountBalance);
+
+accountBalance -= 250;
+console.log(accountBalance);
+
+accountBalance *= 4;
+console.log(accountBalance);
+
+accountBalance /= 2;
+console.log(accountBalance);
+
+accountBalance %= 1000 ;
+console.log(accountBalance);
